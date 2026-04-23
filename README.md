@@ -19,5 +19,4 @@ This repository contains the official MATLAB source code for the paper:
 ## How to Run
 1. Ensure Gurobi is properly installed and licensed on your MATLAB path.
 2. Run `run_hen_drl.m` to start training the PPO agent on the benchmark problem.
-3. Run `Ternary_Search.m`.
-4. To test robustness, run `Monte_T.m` after the agent is trained.
+3. To test robustness, run `Monte_T.m` after the agent is trained.
